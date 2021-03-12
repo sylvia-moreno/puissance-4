@@ -1,0 +1,25 @@
+{
+  "name": "puissance-4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app/connect4.js",
+  "scripts": {
+    "test": "mocha ./tests",
+    "test:watch": "mocha --watch ./tests ./app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sylvia-moreno/puissance-4.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^7.1.1",
+    "sinon": "^9.0.1"
+  },
+  "bugs": {
+    "url": "https://github.com/sylvia-moreno/puissance-4/issues"
+  },
+  "homepage": "https://github.com/sylvia-moreno/puissance-4#readme"
+}
